@@ -5,7 +5,7 @@ https://github.com/streaak/keyhacks
 
 ### XSS:
 https://github.com/theinfosecguy/QuickXSS (xss automation)
-https://github.com/s0mdv3/XSStrick
+https://github.com/s0md3v/XSStrike
 https://github.com/KathanP19/Gxss
 https://hakin9.org/xssmap-detect-xss-vulnerability-in-web-applications/
 https://kitploit.com/search/label/XSS?m=1
