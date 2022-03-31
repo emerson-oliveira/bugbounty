@@ -37,3 +37,15 @@ Finding company extension-name for cert.sh: https://www.sec.gov/cgi-bin/cik_look
 https://www.exploit-db.com/   
 https://sn1persecurity.com/wordpress/ (Automate - Recon)   
 Setup notfiy tool : https://dhiyaneshgeek.github.io/bug/bounty/2020/02/06/recon-with-me/   
+
+
+
+### OSINT
+
+https://osintframework.com/
+https://www.maltego.com/
+https://www.shodan.io/
+https://haveibeenpwned.com/
+https://www.beenverified.com/
+https://www.beenverified.com/
+https://www.social-searcher.com/
