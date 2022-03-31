@@ -49,3 +49,8 @@ https://haveibeenpwned.com/
 https://www.beenverified.com/    
 https://www.beenverified.com/     
 https://www.social-searcher.com/      
+
+### DATA IP 
+
+https://ipinfo.io/   
+https://pt.infobyip.com/   
