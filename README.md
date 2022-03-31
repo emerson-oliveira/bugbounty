@@ -42,10 +42,10 @@ Setup notfiy tool : https://dhiyaneshgeek.github.io/bug/bounty/2020/02/06/recon-
 
 ### OSINT
 
-https://osintframework.com/
-https://www.maltego.com/
-https://www.shodan.io/
-https://haveibeenpwned.com/
-https://www.beenverified.com/
-https://www.beenverified.com/
-https://www.social-searcher.com/
+https://osintframework.com/    
+https://www.maltego.com/     
+https://www.shodan.io/     
+https://haveibeenpwned.com/      
+https://www.beenverified.com/    
+https://www.beenverified.com/     
+https://www.social-searcher.com/      
